@@ -1,0 +1,7 @@
+body {
+    background-color: #222222;
+}
+body > div {
+    position: relative !important;
+    margin: 0 auto;
+}
